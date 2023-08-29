@@ -16,6 +16,7 @@ Esses são os conteúdos que estou colocando em prática:
 
 
 
-![Captura de Tela 2023-08-28 às 21 13 17](https://github.com/EnzoGRodrigues/InfoLoL/assets/97136552/7296e3dd-2292-4c95-8370-06cf94ac6192)
-![Captura de Tela 2023-08-28 às 21 13 24](https://github.com/EnzoGRodrigues/InfoLoL/assets/97136552/e78eceba-b814-478f-8380-88b537ad0528)
-![Captura de Tela 2023-08-28 às 21 13 11](https://github.com/EnzoGRodrigues/InfoLoL/assets/97136552/51eedeb7-9f8f-4db7-8102-2ff5097a85a3)
+
+![tela 01](https://github.com/EnzoGRodrigues/InfoLoL/assets/97136552/c59e9454-b1e0-442f-a297-8e399855cc07)
+![tela 02](https://github.com/EnzoGRodrigues/InfoLoL/assets/97136552/cc2ed01b-fc27-462c-adab-5f52babaca77)
+![tela 03](https://github.com/EnzoGRodrigues/InfoLoL/assets/97136552/c7bfc47f-dbbe-4516-abb7-c7812f71f838)
