@@ -15,6 +15,7 @@ Esses são os conteúdos que estou colocando em prática:
 📚 Criando TabBar para separar cada tela conforme o seu conteúdo.
 
 
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-08-28 at 21 01 55](https://github.com/EnzoGRodrigues/InfoLoL/assets/97136552/cc2b0cfc-6c5c-462d-a474-49d0f61bbb46)
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-08-28 at 21 01 52](https://github.com/EnzoGRodrigues/InfoLoL/assets/97136552/003dc79d-3fe9-4076-a6b7-95de44a3550a)
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-08-28 at 21 01 44](https://github.com/EnzoGRodrigues/InfoLoL/assets/97136552/4ca62823-ea3f-4efd-a89c-0bd8afc51108)
+
+![Xnip2023-08-28_21-07-06](https://github.com/EnzoGRodrigues/InfoLoL/assets/97136552/79b93f6f-82b8-437d-93ef-176e40b7b2af)
+![Xnip2023-08-28_21-07-33](https://github.com/EnzoGRodrigues/InfoLoL/assets/97136552/6eed3b9b-11d9-4bb3-abe0-84a72c209507)
+![Xnip2023-08-28_21-07-42](https://github.com/EnzoGRodrigues/InfoLoL/assets/97136552/e5a35b25-291b-43d3-b455-f0e144f3a60d)
