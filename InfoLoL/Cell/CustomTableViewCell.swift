@@ -13,7 +13,7 @@ class CustomTableViewCell: UITableViewCell {
     
     @IBOutlet weak var collectionView: UICollectionView!
     @IBOutlet weak var collectionViewB: UICollectionView!
-    
+    @IBOutlet weak var collectionViewC: UICollectionView!
     
     var listChampions : [String] = ["Aatrox", "Ahri", "Akali", "Amumu", "Anivia", "Aphelios", "Ashe", "AurelionSol", "Azir", "Belveth", "Blitzcrank", "Brand", "Braum", "Caitlyn", "Camille", "Chogath", "Corki", "Darius", "Diana", "Draven", "DrMundo", "Ekko", "Elise", "Evelynn", "Ezreal"]
     var listChampionsB : [String] = ["Zyra", "Zoe", "Zilean", "Ziggs", "Zed", "Zac", "Yuumi", "Yorick", "Yone", "Yasuo", "XinZhao", "Xerath"]
@@ -37,6 +37,9 @@ class CustomTableViewCell: UITableViewCell {
         collectionViewB.dataSource = self
         collectionViewB.delegate = self
         
+        collectionViewC.dataSource = self
+        collectionViewC.delegate = self
+        
         if let layout = collectionView.collectionViewLayout as? UICollectionViewFlowLayout{
             layout.scrollDirection = .horizontal
             layout.estimatedItemSize = .zero
@@ -51,8 +54,16 @@ class CustomTableViewCell: UITableViewCell {
         
         collectionViewB.register(CustomCollectionViewCell.nib(), forCellWithReuseIdentifier: CustomCollectionViewCell.identifier)
         
+        if let layoutC = collectionViewC.collectionViewLayout as? UICollectionViewFlowLayout{
+            layoutC.scrollDirection = .horizontal
+            layoutC.estimatedItemSize = .zero
+        }
+        
+        collectionViewB.register(CustomCollectionViewCell.nib(), forCellWithReuseIdentifier: CustomCollectionViewCell.identifier)
+        
         collectionView.backgroundColor = .systemPink
         collectionViewB.backgroundColor = .systemBlue
+        collectionViewC.backgroundColor = .systemGreen
     }
     
     func setupLabel(nameLabel: String){
