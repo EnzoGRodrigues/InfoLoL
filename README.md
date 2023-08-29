@@ -16,6 +16,7 @@ Esses são os conteúdos que estou colocando em prática:
 
 
 
-![Xnip2023-08-28_21-07-06](https://github.com/EnzoGRodrigues/InfoLoL/assets/97136552/79b93f6f-82b8-437d-93ef-176e40b7b2af)
-![Xnip2023-08-28_21-07-33](https://github.com/EnzoGRodrigues/InfoLoL/assets/97136552/6eed3b9b-11d9-4bb3-abe0-84a72c209507)
-![Xnip2023-08-28_21-07-42](https://github.com/EnzoGRodrigues/InfoLoL/assets/97136552/e5a35b25-291b-43d3-b455-f0e144f3a60d)
+![Captura de Tela 2023-08-28 às 21 13 11](https://github.com/EnzoGRodrigues/InfoLoL/assets/97136552/51eedeb7-9f8f-4db7-8102-2ff5097a85a3)
+![Captura de Tela 2023-08-28 às 21 13 17](https://github.com/EnzoGRodrigues/InfoLoL/assets/97136552/7296e3dd-2292-4c95-8370-06cf94ac6192)
+![Captura de Tela 2023-08-28 às 21 13 24](https://github.com/EnzoGRodrigues/InfoLoL/assets/97136552/e78eceba-b814-478f-8380-88b537ad0528)
+
