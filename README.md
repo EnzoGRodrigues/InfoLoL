@@ -16,16 +16,16 @@ Esses são os conteúdos que estou colocando em prática:
 -------
 
 
-- Tela 01 Campeões
+- Tela 01 | Campeões
 
 ![tela 01](https://github.com/EnzoGRodrigues/InfoLoL/assets/97136552/c59e9454-b1e0-442f-a297-8e399855cc07)
 
 
-- Tela 02 Itens
+- Tela 02 | Itens
 
 ![tela 02](https://github.com/EnzoGRodrigues/InfoLoL/assets/97136552/cc2ed01b-fc27-462c-adab-5f52babaca77)
 
 
-- Tela 03 Regiões
+- Tela 03 | Regiões
 
 ![tela 03](https://github.com/EnzoGRodrigues/InfoLoL/assets/97136552/c7bfc47f-dbbe-4516-abb7-c7812f71f838)
